@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **leejs0823/leejs0823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=DBD3FB&height=80px&section=header&text=Hello! I'm Jungsun&fontSize=30px" />
