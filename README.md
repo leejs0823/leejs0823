@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DBD3FB&height=150&section=header&text=Jungsun" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejs0823)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejs0823&layout=compact&theme=dracula)
 
 ## Skills
 <center>
