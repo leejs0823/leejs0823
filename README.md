@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DBD3FB&height=150&section=header&text=Jungsun" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DBD3FB&height=200&section=header&text=Jungsun" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejs0823)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejs0823&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejs0823&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
 
 ## Skills
