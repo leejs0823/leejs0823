@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DBD3FB&height=200&section=header&text=Jungsun" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejs0823&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejs0823&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leejs0823&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />﻿
 
 ## Skills
 <center>
