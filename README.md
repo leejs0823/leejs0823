@@ -17,6 +17,19 @@
 <br>
 <br>
 
+## Experiences ✨
+
+| Description                                                | Period     |
+|------------------------------------------------------------|------------|
+| 네이버 커넥트 소프트웨어야 놀자 1784 스쿨혁명 대학생 멘토  | 2023.01 ~ 2023.03<br/> 2023.12 ~ 2024.02|
+| 동국대학교 HI-SW 봉사단 9기, 10기(부회장), 11기 | 2023 ~ (현재)   |
+| 9oormthonUNIV DGU 3기 Frontend 미르미 | 2024.09 ~ 2025.01    |
+| GDGoC DGU 2기 Web/App General Member | 2024.09 ~ 2025.06    |
+| 동국대학교 Farm System 빅데이터 트랙 4기 | 2025.03 ~ (현재)    |
+| (주)한전MCS 미래 내일 일경험 인턴 | 2025.07 ~ 2025.08    |
+| GDGoC DGU 3기 Web/App Core Member | 2025.08 ~ (현재)    |
+
+
 ## Awards 🏆
 
 | Description                                                | Period     |
@@ -32,13 +45,13 @@
 ## Projects 💻
 | Project Name | Description | Role | Period |
 |:-------------|:------------|:-----|:-------|
-| [**SPOTLIGHT**](https://github.com/shine-spotlight/Spotlight-FE) | 소규모 공연을 위한 공간-공연 예술가 매칭 플랫폼 | Frontend Lead | 25.08 ~ 25.09 |
-| [**DIRVANA**](https://github.com/GDSC-DGU/DGU-2025-Festival-FE) | 2025 동국대학교 봄축제 사이트 | Frontend | 25.05 |
-| [**GDGoC DGU**](https://github.com/GDSC-DGU/GDGoC-DGU-Website) | GDGoC DGU 웹사이트 | Frontend | 25.03 ~  |
-| [**NEWSEE**](https://github.com/leejs0823/NewSee-FE) | 생성형 AI 기반 맞춤형 뉴스 재구성 서비스 | Frontend Lead | 25.03 ~ 25.05 |
-| [**TRENDS**](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_1_FE) | 유행: 내가 만드는 지역 행사<br>지역 행사 활성화를 위한 개인·기업 매칭 서비스  | Frontend Lead | 24.10 ~ 24.11 |
-| [**GenD**](https://github.com/2025-1-CECD-HELP/GenD-client) | AI 회의록 자동화 서비스 | Frontend | 24.09 ~ 25.06 |
-| [**Gooiman**](https://github.com/gooiman/Gooiman_client) | 메모장 관리 서비스, 구름은 이렇게 만들어집니다 | Frontend | 24.09.26 ~ 24.09.29 |
+| [**SPOTLIGHT**](https://github.com/shine-spotlight/Spotlight-FE) | 소규모 공연을 위한 공간-공연 예술가 매칭 플랫폼 | Frontend Lead | 2025.08 ~ 2025.09 |
+| [**DIRVANA**](https://github.com/GDSC-DGU/DGU-2025-Festival-FE) | 2025 동국대학교 봄축제 사이트 | Frontend | 2025.05 |
+| [**GDGoC DGU**](https://github.com/GDSC-DGU/GDGoC-DGU-Website) | GDGoC DGU 웹사이트 | Frontend | 2025.03 ~  |
+| [**NEWSEE**](https://github.com/leejs0823/NewSee-FE) | 생성형 AI 기반 맞춤형 뉴스 재구성 서비스 | Frontend Lead | 2025.03 ~ 2025.05 |
+| [**TRENDS**](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_1_FE) | 유행: 내가 만드는 지역 행사<br>지역 행사 활성화를 위한 개인·기업 매칭 서비스  | Frontend Lead | 2024.10 ~ 2024.11 |
+| [**GenD**](https://github.com/2025-1-CECD-HELP/GenD-client) | AI 회의록 자동화 서비스 | Frontend | 2024.09 ~ 2025.06 |
+| [**Gooiman**](https://github.com/gooiman/Gooiman_client) | 메모장 관리 서비스, 구름은 이렇게 만들어집니다 | Frontend | 2024.09.26 ~ 2024.09.29 |
 | [**CHARAC-TALK**](https://github.com/PROMACAMputhon/front) | 동국동락 캐릭톡: 랭체인 기반 맞춤형 추천 챗봇 | Frontend | 24.07 |
 | [**PROMA**](https://github.com/PROMAplatform/proma-front) | 드래그 앤 드랍 기만 프롬프트 엔지니어링 플랫폼 | Frontend | 24.06 ~ 25.03 |
 | [**AECOFARM**](https://github.com/AECOFARM/aecofarm-FE) | 대학생 교내 물품 공유 플랫폼 | Frontend | 24.06 ~ 24.09 |
