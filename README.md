@@ -50,7 +50,7 @@
 | Project Name | Description | Role | Period |
 |:-------------|:------------|:-----|:-------|
 | [**2025 SNU DESIGN WEEK**](https://github.com/snud2022/snu-design-week-2025) | [2025 서울대학교 디자인과 졸업주간 전시 사이트](https://2025.snudesignweek.com/) | Frontend Lead | 2025.10 ~ 2025.12 |
-| [**SPOTLIGHT**](https://github.com/shine-spotlight/Spotlight-FE) | 소규모 공연을 위한 공간-공연 예술가 매칭 플랫폼 | Frontend Lead | 2025.08 ~ 2025.09 |
+| [**SPOTLIGHT**](https://github.com/shine-spotlight/Spotlight-FE) | 소규모 공연을 위한 공간-공연 예술가 매칭 플랫폼 | Frontend | 2025.08 ~ 2025.09 |
 | [**DIRVANA**](https://github.com/GDSC-DGU/DGU-2025-Festival-FE) | 2025 동국대학교 봄축제 사이트 | Frontend | 2025.05 |
 | [**GDGoC DGU**](https://github.com/GDSC-DGU/GDGoC-DGU-Website) | GDGoC DGU 웹사이트 | Frontend | 2025.03 ~  |
 | [**NEWSEE**](https://github.com/leejs0823/NewSee-FE) | 생성형 AI 기반 맞춤형 뉴스 재구성 서비스 | Frontend Lead | 2025.03 ~ 2025.05 |
